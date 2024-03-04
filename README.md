@@ -75,9 +75,11 @@
     </div>
 </div>
  -->
-<div class="footer-section">
+
+ 
+<!-- <div class="footer-section">
     <p><img align="left" src=" &show_icons=true&locale=en&layout=compact" alt="dinil-thilakarathne" /></p>
     <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dinil-thilakarathne&show_icons=true&locale=en" alt="dinil-thilakarathne" /></p>
-</div>
+</div> -->
 
 
