@@ -56,7 +56,7 @@
             </a> -->
         </p>
     </div>
-    <div class="tools-section">
+<!--     <div class="tools-section">
         <h3 align="left">Tools :</h3>
         <p align="left"> 
             <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -74,7 +74,7 @@
         </p>
     </div>
 </div>
-
+ -->
 <div class="footer-section">
     <p><img align="left" src=" &show_icons=true&locale=en&layout=compact" alt="dinil-thilakarathne" /></p>
     <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dinil-thilakarathne&show_icons=true&locale=en" alt="dinil-thilakarathne" /></p>
