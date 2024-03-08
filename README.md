@@ -1,5 +1,5 @@
  <div class="hero-img-section">
-    <img src="img/banner.png"  align="right" alt="Coding">
+<!--     <img src="img/banner.png"  align="right" alt="Coding"> -->
 </div>
 
 *.*
