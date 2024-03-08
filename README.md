@@ -1,9 +1,3 @@
- <div class="hero-img-section">
-<!--     <img src="img/banner.png"  align="right" alt="Coding"> -->
-</div>
-
-*.*
-
 <div class="header-section" style="height:10%;width: 100%;" >
     <h2 >
 👋 Hello, I'm Himanshu Singh, a 20-year-old aspiring front-end developer.From India.
