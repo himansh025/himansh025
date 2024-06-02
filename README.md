@@ -1,6 +1,6 @@
 <div class="header-section" style="height:10%;width: 100%;" >
     <h2 >
-👋 Hello, I'm Himanshu Singh, a 20-year-old aspiring front-end developer.From India.
+👋 Hello, I'm Himanshu Singh, a 20-year-old aspiring front-end developer from India.
     </h2>
 </div>
 
@@ -8,7 +8,7 @@
 <div class="hero-top-section"">
  <div class="hero-top-txt">
  <p>
- I have a strong passion for front-end development and love creating beautiful, interactive user interfaces. My expertise lies in HTML and CSS, where I have honed my skills to craft visually appealing and responsive web pages. I strive to create seamless user experiences by leveraging the power of these core technologies.
+ I have a strong passion for front-end development and love creating beautiful, interactive user interfaces. My expertise lies in HTML and CSS, JavaScript Reactjs where I have honed my skills to craft visually appealing and responsive web pages. I strive to create seamless user experiences by leveraging the power of these core technologies.
  </p>
  </div>
 
