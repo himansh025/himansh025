@@ -41,21 +41,21 @@
     </div>
     <div class="framework-section">
         <h3>Frameworks :</h3>
-
+<div>
             <a href="https://getbootstrap.com"style = background-color: "white" target="_blank" rel="noreferrer" >
                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" background-color: "white"  width="40" height="40"/> 
             </a> 
           <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-            </a>
+            </a>        
+</div></div>
+
 <!--
 a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
                 <img src="" alt="react" width="40" height="40"/> 
             </a>-->
-
-
        
-    </div>
+   
 <!--     <div class="tools-section">
         <h3 align="left">Tools :</h3>
         <p align="left"> 
