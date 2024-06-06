@@ -16,8 +16,8 @@
     <div class="social-media-section">
         <h3>Connect with me:</h3>
         <p>
-        <a>
-            <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" />
+        <a href="https://www.instagram.com/_.himanshuu08?igsh=N2p5aTU2YXg0OGY2">
+            <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F"  />
 
 </a>
 <!--          <a href="#" target="blank"> -->
