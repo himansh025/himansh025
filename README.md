@@ -1,4 +1,4 @@
-<div class="header-section" style="height:10%;width: 100%;" >
+aa<div class="header-section" style="height:10%;width: 100%;" >
     <h2 >
 👋 Hello, I'm Himanshu Singh, a 20-year-old aspiring front-end developer from India.
     </h2>
@@ -17,15 +17,7 @@
         <h3>Connect with me:</h3>
         <p>
 
-        <a href="https://www.instagram.com/_.himanshuu08?igsh=N2p5aTU2YXg0OGY2">
-            <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F"/>
-</a>
-
-
-
-
-    <a href="https://www.linkedin.com/in/himanshu-singh-127188254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt = "linkdin"> <img height="32" width="32" src="https://search.app.goo.gl/bvUZMwe"  />
-</a>
+        
 
 
 
