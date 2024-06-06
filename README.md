@@ -18,21 +18,18 @@
         <p>
 
         <a href="https://www.instagram.com/_.himanshuu08?igsh=N2p5aTU2YXg0OGY2">
-            <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F"  />
+            <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F"/>
 </a>
 
 
 
 
-    <a href="https://www.linkedin.com/in/himanshu-singh-127188254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-
-            <img height="32" width="32" src="https://search.app.goo.gl/bvUZMwe"  />
+    <a href="https://www.linkedin.com/in/himanshu-singh-127188254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt = "linkdin"> <img height="32" width="32" src="https://search.app.goo.gl/bvUZMwe"  />
 </a>
 
 
 
-
-<!--          <a href="#" target="blank"> -->
+   <a href="#" target="blank"> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/youtube/[COLOR]" />
          </a>
         </p>
