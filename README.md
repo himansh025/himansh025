@@ -1,4 +1,4 @@
-aa<div class="header-section" style="height:10%;width: 100%;" >
+<div class="header-section" style="height:10%;width: 100%;" >
     <h2 >
 👋 Hello, I'm Himanshu Singh, a 20-year-old aspiring front-end developer from India.
     </h2>
