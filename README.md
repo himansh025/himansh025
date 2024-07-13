@@ -6,7 +6,7 @@
 <div class="hero-top-section"">
  <div class="hero-top-txt">
  <p>
- I have a strong passion for front-end development and love creating beautiful, interactive user interfaces. My expertise lies in HTML and CSS, JavaScript Reactjs where I have honed my skills to craft visually appealing and responsive web pages. I strive to create seamless user experiences by leveraging the power of these core technologies.
+ I have a strong passion for front-end development and love creating beautiful, interactive user interfaces. My expertise lies in HTML and CSS, JavaScript, Reactjs,Nodejs where I have honed my skills to craft visually appealing and responsive web pages. I strive to create seamless user experiences by leveraging the power of these core technologies.
  </p>
  </div>
 
