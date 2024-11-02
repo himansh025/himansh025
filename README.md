@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-# Hey! I'm Himanshu Singh, a Full-Stack developer
+# Hey! I'm Himanshu Singh
 <br>👯 I’m looking to collaborate on Full-Stack Projects<br>🤝 I’m looking for help with MERN STACK<br>🌱 I’m currently learning MERN STACK <br>
 
 <div class="hero-top-section"">
