@@ -1,13 +1,12 @@
 
-<br>👯 I’m looking to collaborate on Full-Stack Projects<br>
-<br>🌱 I’m currently working in MERN STACK <br>
+<div class="hero-top-section">
+  <div class="hero-top-txt">
+    <p>
+      MERN stack developer passionate about building clean, responsive web applications. Open to collaboration on full-stack projects.
+    </p>
+  </div>
+</div>
 
-<div class="hero-top-section"">
- <div class="hero-top-txt">
- <p>
- I have a strong passion for front-end development and love creating beautiful, interactive user interfaces.and Nodejs where I have honed my skills to craft visually appealing and responsive web pages. I strive to create seamless user experiences by leveraging the power of these core technologies.
- </p>
- </div>
 
 
 # 📊 GitHub Stats:
